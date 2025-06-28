@@ -59,3 +59,5 @@ main(){
 	gitStatusThis
 	gitStatusSubDirs
 }
+
+main
