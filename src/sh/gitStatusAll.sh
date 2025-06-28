@@ -1,7 +1,5 @@
 # Git Status All: Current Folder & Sib-Directories
 
-alias gs="main"
-
 # fn()
 gitStatusThis(){
 	if [ -d ".git" ]; then
